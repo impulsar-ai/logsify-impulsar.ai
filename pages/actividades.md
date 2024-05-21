@@ -1,0 +1,15 @@
+## Evento de presentación de impulsar.ai
+- * 📅 Fecha: 30 de noviembre de 18 a 20h (hora de España)
+- * 💵 Precio: gratuíto
+- * 💻 Formato: online
+- Con motivo del **primer aniversario del nacimiento de ChatGPT** queremos juntarnos un grupo de emprendedores para compartir experiencias en el desarrollo de proyectos de Inteligencia Artificial. El primer encuentro de la comunidad impulsar.ai se celebrará el **30 de noviembre de 18 a 20h de manera online** y estará lleno de actividades en las que descubrir y compartir proyectos de otros impulsores de la Inteligencia Artificial.
+- #### **Entrevista a [Javier López](https://javilop.com)**
+- Cofundador y former-CEO de Erasmusu desde 2008 hasta 2021, [adquirida por Spotahome](https://techcrunch.com/2018/03/12/spotahome-acquires-erasmusu/?guccounter=1&guce%5Freferrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce%5Freferrer%5Fsig=AQAAAAlNk%5FA-GaI6HiwiAI8T89ImRnewgBtERL7V9vMzSFZR5u3M9MdJAoU4CLBK-mK8-0S8vmx0x18Vc04M5EyuofDYHindq86YNuTu1Fj%5Fk9poAsP8NbLI1lQrTtHgbonUTS7BHKKarPMwUwEVLofT-lCergVKX6gghnuUyYdYNWzR) en 2018\. [Inversor en startups.](https://www.notion.so/Busco-proyectos-en-los-que-invertir-24a14720a2404e81a6e2ef5c06d4ed0a) Actualmente poniendo en marcha el proyecto [magnific.ai](https://magnific.ai/)
+- #### Presentación de startups
+- Pitch de 4 de las startups más interesantes del panorama de la Inteligencia Artificial en español:
+- * [Ecuademy](https://ecuademy.app/) (Juan Echeverria) La academia de Matemáticas virtual. Mejora tus notas en Mates con la ayuda de nuestra app.
+- * [GPTadvisor](https://gptadvisor.com/) (Boro Mas) Start up dedicada a desarrollar modelos de inteligencia artificial dirigidos al sector de gestión patrimonial.
+- * [Maite.ai](https://www.maite.ai) (Alejandro Castellano) Tu alter ego jurídico. Consigue más clientes en menos tiempo.
+- * [AIOS](https://www.ai-os.es/) (David Macías) Una metodología que, gracias a la IA, permite alinear equipos y sistematizar la compañía.
+- #### Networking
+- Tras la presentación de los proyectos los emprendedores podrán responder preguntas y recibir feedback de los participantes en el evento

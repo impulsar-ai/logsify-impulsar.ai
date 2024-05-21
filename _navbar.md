@@ -1,2 +1,6 @@
-- [home](/)
-- [contents](pages/contents.md)
+- [Home](/)
+- 🤖 [impulsar.ai](pages/impulsar_ai.md)
+- 🧑‍🤝‍🧑 [comunidad](pages/comunidad.md)
+- 🗂️ [redes](pages/redes.md)
+- 📹 [vídeos](pages/videos.md)
+- 👥 [nosotros](pages/nosotros.md)
