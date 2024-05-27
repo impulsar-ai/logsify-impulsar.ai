@@ -1,18 +1,18 @@
-# Política de Privacidad de innteresante.com
+# Política de Privacidad de impulsar.ai
 
 **Última actualización: 2023-11-17**
 
-Esta política de privacidad explica cómo nosotros, Lucas Rodríguez Cervera, recogemos, utilizamos y protegemos la información personal proporcionada por los usuarios de nuestro sitio web innteresante.com.
+Esta política de privacidad explica cómo nosotros, Lucas Rodríguez Cervera, recogemos, utilizamos y protegemos la información personal proporcionada por los usuarios de nuestro sitio web impulsar.ai.
 - ## Responsable del Tratamiento de Datos Personales
 - **Lucas Rodríguez Cervera**
-  - Contacto: lucas   @   innteresante.com
+  - Contacto: impulsarai   @   gmail.com
 - ## Recogida de Información
   
   Recogemos información personal a través del formulario en nuestro sitio web. Esto incluye:
   - Dirección de correo electrónico
   - Otra información que decida proporcionar
 - Esta información se recoge con los siguientes propósitos:
-  - Enviar correos electrónicos relativos a la actividad de innteresante.com
+  - Enviar correos electrónicos relativos a la actividad de impulsar.ai
   - Enviar newsletters
   - Ofrecer servicios personalizados
   - Otras actividades relacionadas con el proyecto
@@ -47,4 +47,4 @@ Esta política de privacidad explica cómo nosotros, Lucas Rodríguez Cervera, r
 - ## Contacto
   
   Si tiene preguntas sobre esta política de privacidad o sobre el tratamiento de sus datos personales, puede contactarnos a través de:
-- **Lucas Rodríguez Cervera**: lucas   @   innteresante.com
+- **Lucas Rodríguez Cervera**:   impulsarai   @   gmail.com
