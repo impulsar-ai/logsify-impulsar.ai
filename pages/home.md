@@ -19,5 +19,3 @@
     </div>
   </div>
 </section>
-
-[Redes sociales](redes.md#socialNetworks ':include')
