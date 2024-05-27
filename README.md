@@ -1,1 +1,1 @@
-## Impulsar.ai es una comunidad de colaboración entre personas que quieren tomar parte activa en la revolución que estamos viviendo gracias a los avances en Inteligencia Artificial
+[home](pages/home.md ':include')
