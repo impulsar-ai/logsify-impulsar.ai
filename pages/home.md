@@ -1,5 +1,5 @@
 <section>
-  <div class="relative items-center w-full px-5 py-12 mx-auto md:px-12 lg:px-16 max-w-7xl lg:py-24">
+  <div class="relative items-center w-full px-5 py-12 mx-auto md:px-12 lg:px-16 max-w-7xl lg:py-8">
     <div class="flex w-full mx-auto text-left">
       <div class="relative inline-flex items-center mx-auto align-middle">
         <div class="text-center">
