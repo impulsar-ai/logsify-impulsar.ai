@@ -8,7 +8,7 @@
         <del style="color: red;">interesada en</del><br class="hidden lg:block">
         <ins style="background-color: rgba(255, 255, 0, 0.3); text-decoration: none;">que utiliza</ins> <br>Inteligencia Artificial
     </h1>
-          <p class="text-gray-500">Impulsar.ai es una comunidad de colaboración entre personas que quieren tomar parte activa en la revolución que estamos viviendo gracias a los avances en Inteligencia Artificial</p>
+          <p class="text-gray-500">Impulsar.ai es una comunidad de colaboración entre personas que quieren tomar parte activa en la revolución que estamos viviendo gracias a los avances en Inteligencia Artificial. Analizamos en profundidad cómo se puede aprovechar la inteligencia artificial en distintas funciones profesionales y sectores de actividad, y el impacto que puede tener en el futuro próximo.</p>
           <div class="iframe-container">
             <div class="iframe-wrapper">
               <iframe src="https://www.youtube.com/embed/YktVU4FKB0Y" title="¿Qué es impulsar.ai?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
